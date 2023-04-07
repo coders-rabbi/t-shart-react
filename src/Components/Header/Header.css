@@ -1,0 +1,10 @@
+nav{
+    /* background-color: red; */
+    
+}
+
+nav a{
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: semibold;
+}
