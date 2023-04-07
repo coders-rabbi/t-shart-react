@@ -1,0 +1,25 @@
+.t-shart{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.tshart-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+.t-shart h3, p {
+    margin: 10px;
+}
+
+.add-to-cart{
+    background-color: #f59e0b;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.t-shart:hover{
+    box-shadow: 5px 5px rgba(235, 244, 247, 0.454);
+}
